@@ -1,0 +1,22 @@
+{
+    "name": "dianaarnos/pcs-youtube-downloader",
+    "description": "POC application for PHP Community Summit 2020",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diana Arnos",
+            "email": "diana.arnos@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.1",
+        "smoqadam/youtube-video-info": "dev-master",
+        "ext-readline": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "YouTubeDownloader\\": "src"
+        }
+    }
+}
