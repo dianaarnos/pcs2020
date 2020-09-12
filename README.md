@@ -1,4 +1,4 @@
-Slides: https://speakerdeck.com/dianaarnos/pcs2020-php-alem-do-sincrono
+Slides: https://speakerdeck.com/dianaarnos/pcs2020-php-alem-do-sincrono  
 Referências: https://gist.github.com/dianaarnos/d43b56c3477c0198f6f497377a2dbd8c
 
 Apresentada durante o PHP Community Summit de 2020.
